@@ -1,0 +1,19 @@
+{
+  "name": "Sportsbet",
+  "short_name": "Sportsbet",
+  "theme_color": "",
+  "background_color": "#0067AB",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1769581309-android-chrome-192x192-e0e7f90ffcc01d69a5e1488f138f11bd.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
